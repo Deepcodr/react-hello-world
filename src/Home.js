@@ -7,7 +7,7 @@ export default function Home(){
         <div className="container-fluid d-flex flex-column align-items-center justify-content-center" style={{"height" : "100vh"}}>
             <div className="text-center">
                 <div className="text-center fw-bolder display-1">
-                    Hello {name} Welcome,
+                    Hello {name} Welcome to React Hello World,
                 </div>
                 <p className="fst-italic text-success">
                     This is Hello World Project By Deepcodr
